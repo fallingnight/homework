@@ -27,7 +27,7 @@ if(k<0) {
 	else{
 k2=mysqrt(k); 
 
-printf("sqrt(%.2lf)=%lf",k,k2); }
+printf("sqrt(%g)=%lf",k,k2); }
 
 
 return 0;
